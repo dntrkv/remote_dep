@@ -1,1 +1,7 @@
-view: foo {}
+view: foo {
+    test: foo;
+
+
+    
+    asdf
+}
